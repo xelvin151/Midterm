@@ -1,0 +1,2 @@
+Hello,this is the main page!
+There are two pages:[Michelle's information] and[Jefrey's information] feel free to check each of them.

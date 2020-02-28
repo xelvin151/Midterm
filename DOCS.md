@@ -43,3 +43,15 @@ sudo service nginx reload
 cd var/www/html
 sudo nano info.php
 sudo rm info.php
+
+#Step3: Lion Wiki
+wget http://lionwiki.0o.cz/download/3.2.11/lionwiki-3.2.11.zip
+sudo apt install unzip
+unzip lionwiki-3.2.11.zip
+cd  lionwiki-3.2.11
+sudo chmod 777 ./var
+sudo cp -r * lionwiki-3.2.11 /var/www/html
+
+
+____________END____________________
+

@@ -1,0 +1,52 @@
+<rss version="2.0">
+<channel>
+<title>My new wiki: Comments</title>
+<link>http://_:80/index.php</link>
+<description>RSS comments feed from My new wiki</description>
+<language>en-US</language>
+
+<item>
+	<title>Jefrey's information</title>
+	<pubDate>Fri, 28 Feb 2020 15:19:18 +0700</pubDate>
+	<link>http://_:80/index.php?page=Jefrey%27s+information#20200228-1519-18</link>
+	<description><pre>127.0.0.1		
+</pre></description>
+</item>
+
+<item>
+	<title>Michelle's information</title>
+	<pubDate>Fri, 28 Feb 2020 15:18:06 +0700</pubDate>
+	<link>http://_:80/index.php?page=Michelle%27s+information#20200228-1518-06</link>
+	<description><pre>127.0.0.1		
+</pre></description>
+</item>
+
+<item>
+	<title>Michelle's information</title>
+	<pubDate>Fri, 28 Feb 2020 15:17:58 +0700</pubDate>
+	<link>http://_:80/index.php?page=Michelle%27s+information#20200228-1517-58</link>
+	<description><pre>127.0.0.1		
+</pre></description>
+</item>
+
+<item>
+	<title>Main page</title>
+	<pubDate>Fri, 28 Feb 2020 15:16:32 +0700</pubDate>
+	<link>http://_:80/index.php?page=Main+page#20200228-1516-32</link>
+	<description><pre>127.0.0.1	Jefrey Vinson	xelvin151@gmail.com
+</pre></description>
+</item>
+
+<item>
+	<title>Main page</title>
+	<pubDate>Fri, 28 Feb 2020 15:16:07 +0700</pubDate>
+	<link>http://_:80/index.php?page=Main+page#20200228-1516-07</link>
+	<description><pre>127.0.0.1	Michelle Evalista	peachyberry17@gmail.com
+</pre></description>
+</item>
+
+
+
+
+</channel>
+</rss>

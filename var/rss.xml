@@ -1,0 +1,44 @@
+<rss version="2.0">
+<channel>
+<title>My new wiki</title>
+<link>http://_:80/index.php</link>
+<description>RSS feed from My new wiki</description>
+<language>en-US</language>
+
+	<item>
+	  <title>Jefrey's information</title>
+	  <pubDate>Fri, 28 Feb 2020 15:19:15 +0700</pubDate>
+	  <link>http://_:80/index.php?page=Jefrey%27s+information</link>
+	  <description><pre id="diff"><ins>I am Sule's brother, we meet at the jungle and being Tarzan for 10 years. So, my childhood in the jungle.</ins>
+</pre></description>
+	</item>
+
+	<item>
+	  <title>Michelle's information</title>
+	  <pubDate>Fri, 28 Feb 2020 15:17:53 +0700</pubDate>
+	  <link>http://_:80/index.php?page=Michelle%27s+information</link>
+	  <description><pre id="diff"><ins>i am michelle. some of my friend call me grande. they call me grande because i am ariana grande's twin</ins>
+</pre></description>
+	</item>
+
+	<item>
+	  <title>Main page</title>
+	  <pubDate>Fri, 28 Feb 2020 15:15:24 +0700</pubDate>
+	  <link>http://_:80/index.php?page=Main+page</link>
+	  <description><pre id="diff"><del>gfgdgfgdfgdfgfdbfdbfc</del><ins>Hello,this is the main page!
+There are two pages:[Michelle's information] and[Jefrey's information] feel free to check each of them.</ins>
+</pre></description>
+	</item>
+
+	<item>
+	  <title>Main page</title>
+	  <pubDate>Fri, 28 Feb 2020 15:12:18 +0700</pubDate>
+	  <link>http://_:80/index.php?page=Main+page</link>
+	  <description><pre id="diff"><ins>gfgdgfgdfgdfgfdbfdbfc</ins>
+</pre></description>
+	</item>
+
+
+
+</channel>
+</rss>
